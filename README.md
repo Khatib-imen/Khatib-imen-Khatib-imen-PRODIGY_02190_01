@@ -1,5 +1,5 @@
-PRODIGY_02190-01
-Task-01: Responsive Landing Page
+
+Responsive Landing Page for Clinic Site
 
 Description This project involves creating a responsive landing page with an interactive navigation menu. The navigation menu will change its color or style when the user scrolls or hovers over a menu item. The menu should have a fixed position and be visible on all pages.
 
